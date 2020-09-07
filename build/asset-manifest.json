@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CleverProgrammers/react-portfoliostatic/css/main.5facb584.chunk.css",
+    "main.js": "/CleverProgrammers/react-portfoliostatic/js/main.181f9586.chunk.js",
+    "main.js.map": "/CleverProgrammers/react-portfoliostatic/js/main.181f9586.chunk.js.map",
+    "runtime-main.js": "/CleverProgrammers/react-portfoliostatic/js/runtime-main.d3f33434.js",
+    "runtime-main.js.map": "/CleverProgrammers/react-portfoliostatic/js/runtime-main.d3f33434.js.map",
+    "static/js/2.3ef2d018.chunk.js": "/CleverProgrammers/react-portfoliostatic/js/2.3ef2d018.chunk.js",
+    "static/js/2.3ef2d018.chunk.js.map": "/CleverProgrammers/react-portfoliostatic/js/2.3ef2d018.chunk.js.map",
+    "index.html": "/CleverProgrammers/react-portfolioindex.html",
+    "precache-manifest.00f45271f880ccb857a3d3d1f29a8c85.js": "/CleverProgrammers/react-portfolioprecache-manifest.00f45271f880ccb857a3d3d1f29a8c85.js",
+    "service-worker.js": "/CleverProgrammers/react-portfolioservice-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/CleverProgrammers/react-portfoliostatic/css/main.5facb584.chunk.css.map",
+    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/CleverProgrammers/react-portfoliostatic/js/2.3ef2d018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3f33434.js",
+    "static/js/2.3ef2d018.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.181f9586.chunk.js"
+  ]
+}
